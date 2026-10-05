@@ -1,0 +1,10 @@
+{
+  "name": "ai-office",
+  "version": "1.0.0",
+  "description": "A full 13-role AI company (idea, design, UI/UX, frontend, backend, testing, validation, SEO, video, social media, marketing, sales, project management) that takes a goal from idea to launch at zero cost.",
+  "author": {
+    "name": "Muhammad Abdullah Waseem"
+  },
+  "license": "MIT",
+  "keywords": ["agents", "orchestration", "startup", "marketing", "app-development", "zero-cost"]
+}

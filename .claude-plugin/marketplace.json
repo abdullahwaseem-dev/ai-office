@@ -1,0 +1,13 @@
+{
+  "name": "ai-office",
+  "owner": {
+    "name": "Muhammad Abdullah Waseem"
+  },
+  "plugins": [
+    {
+      "name": "ai-office",
+      "source": "./",
+      "description": "A full 13-role AI company that takes a goal from idea to launch at zero cost."
+    }
+  ]
+}
